@@ -1,0 +1,14 @@
+@import url(nav-bar.css);
+@import url(content.css);
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #000000;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  padding: 120px 0 80px 0;
+}
